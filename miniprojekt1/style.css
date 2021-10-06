@@ -1,0 +1,77 @@
+h2{
+
+    color:rgb(226, 53, 174);
+    font-size:xx-large;
+    font-weight: 500px;
+    text-align: center;
+   
+    
+}
+
+p{
+
+    color:lightcoral;
+    font-family:serif;
+
+
+
+}
+
+
+body{
+    background-color:beige;
+}
+
+h3{
+    color: violet;
+
+    
+}
+
+
+p{
+    font-size: 20px;
+    font-family:sans-serif;
+    font-weight:lighter;
+
+    display:block;
+    
+}
+
+
+
+img{
+
+    width: 400px;
+    height: 300px;
+
+    
+}
+
+a:hover{
+
+    color:lawngreen;
+}
+
+q{
+
+    color:lightblue;
+    font-family:cursive;
+    font-size:30px;
+
+    
+}
+
+#nav{
+
+    text-decoration: none;
+
+    background-color: rgb(6, 180, 248);
+    color:white;
+    padding: 1rem;
+    font-size: 2rem;
+
+}
+
+
+
